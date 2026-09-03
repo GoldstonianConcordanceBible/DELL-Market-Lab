@@ -1,0 +1,39 @@
+# Pons — DELL Native Pair Availability
+
+Date Observed: September 3, 2026
+
+Experiment: STOCKMEME-DELL-001
+
+Class: SYD-MKT-DELL-001
+
+Reference Asset: DELL
+
+Companion Experiment: $DLAB
+
+Evidence Class: VERIFIED
+
+## Observation
+
+The Pons token creation interface displayed DELL as an available paired asset.
+
+The interface displayed:
+
+Paired Asset: DELL
+
+Graduation Requirement: 23.820325 DELL
+
+Launch Fee: 0.0005 ETH
+
+Developer Buy: Denominated in DELL
+
+## Significance
+
+This artifact establishes that DELL was available for direct native pairing within the observed Pons launch interface at the time of observation.
+
+This evidence predates deployment of the $DLAB experiment and forms part of the Genesis provenance record for DELL Market Lab.
+
+## Core Principle
+
+DELL is the reference asset.
+
+$DLAB is the laboratory.
