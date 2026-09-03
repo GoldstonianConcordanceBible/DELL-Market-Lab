@@ -1,19 +1,3 @@
-🚀 Release Gate 1 of 6 — GitHub Finish
-
-Chunk 2: Source Register + Project Disclosure Record
-
-Create two files at the root of DELL-Market-Lab:
-
-SOURCES.md
-DISCLOSURE.md
-
-These do two different jobs:
-
-SOURCES.md = where evidence came from.
-DISCLOSURE.md = what material relationships or conflicts a reader should know.
-
-File 1 — SOURCES.md
-
 # DELL Market Lab — Source Register
 **File:** `SOURCES.md`  
 **Project:** DELL Market Lab  
